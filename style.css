@@ -1,1 +1,47 @@
-/* Hello RS School */
+* {
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 320px;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-size: ;
+.header {
+    background-color: #829985;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav_list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+.nav_link {
+    padding: 0 20px;
+    line-height: 50px;
+}
+.nav_link:hover {
+    transition: .3s;
+}
+
+.main_container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.section {
+    width: 50%;
+}
+.img {
+    height: 350px;
+    width: 250px;
+}
