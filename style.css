@@ -77,7 +77,7 @@ body {
     width: calc(50% - 20px);
     padding: 10px;
     padding-bottom: 35px;
-    border-bottom: 1px solid #672f2f;
+    border-bottom: 2px solid #672f2f;
 }
 
 .section_title {
