@@ -16,7 +16,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.5;
-    color: #4d2323;
+    color: #004d4d;
 }
 .container {
     max-width: 1440px;
@@ -24,7 +24,7 @@ body {
     min-height: 50px;
 }
 .header {
-    background-color: #829985;
+    background-color: #008080;
 }
 .nav_list {
     display: flex;
@@ -70,14 +70,14 @@ body {
 }
 .main_container {
     display: flex;
-    flex: wrap;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 .section {
     width: calc(50% - 20px);
     padding: 10px;
     padding-bottom: 35px;
-    border-bottom: 1px solid #672f2f;
+    border-bottom: 1px solid #006666;
 }
 
 .section_title {
@@ -86,14 +86,14 @@ body {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #829985
+    color: #008080
 }
 .section_ptofile {
     display: flex;
     justify-content: space-around;
     width: 100%;
     padding: 50px 30px 35px;
-    border-bottom: 15px solid #d7d1c9;
+    border-bottom: 15px solid #008080;
 }
 .section_profile_title {
     display: flex;
@@ -107,7 +107,7 @@ body {
     position: relative;
     padding: 0;
     margin-bottom: 20px;
-    color: #4d2323;
+    color: #004d4d;
     font-size: 32px;
     letter-spacing: 10px;
     line-height: 50px;
@@ -121,11 +121,11 @@ body {
     margin-left: -70px;
     width: 140px;
     height: 2px;
-    background-color: #829985;
+    background-color: #008080;
 }
 .section_subtitle {
     margin-top: 20px;
-    color: #5c5c5c;
+    color: #003333;
     line-height: 50px;
     font-weight: 300;
     letter-spacing: 2px;
@@ -166,15 +166,15 @@ body {
     background-image: url(./assets/svg/4.svg)
 }
 .section_item span {
-    color: #829985;
+    color: #008080;
 }
 .section_item a{
     text-decoration: none;
-    color: #829985;
+    color: #008080;
     transition: color 0.5s;
 }
 .section_item a:hover {
-    color: #4d2323;
+    color: #004d4d;
 }
 .contacts_item:before {
     content: "";
@@ -207,11 +207,12 @@ body {
     height: 19px;
     background-image: url(./assets/svg/3.svg);
 }
+.section_education,
 .section_language {
     border-bottom: 0;
 }
 .footer {
-    background-color: #829985;
+    background-color: #008080;
     padding: 20px;
 }
 .footer_container {
