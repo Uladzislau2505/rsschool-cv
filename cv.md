@@ -1,11 +1,5 @@
-
-
 ---   
-
-# Uladzislau Shylko #   
-
----   
-## Beginner Front-end Developer ##   
+## Uladzislau Shylko ##   
 ---
 ### Contacts: ###   
 * **Phone:** +375259900741
