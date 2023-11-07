@@ -8,6 +8,7 @@
 * **E-mail:** vladislav.shylko@gmail.com
 * **GitHub:** [uladzislau2505](https://github.com/Uladzislau2505)
 * **Telegram:** @uladzislau05
+
 ---
 ### About Myself ###   
 I am 28 years old. I was born and live in the city of Mozyr. I work at an oil refinery. In the future I want to change my profession to front-end developer.  
@@ -17,6 +18,7 @@ I am 28 years old. I was born and live in the city of Mozyr. I work at an oil re
 * HTML5, CSS3
 * JavaScript beginner
 * VS Code, GitHub
+
 ---
 ### Code example: ###   
 `console.log('Welcome')`   
@@ -27,8 +29,10 @@ I am 28 years old. I was born and live in the city of Mozyr. I work at an oil re
 * [Web Development](https://www.sololearn.com/certificates/CC-GBA1DYQE)
 * [Introduction to JavaScript](https://www.sololearn.com/certificates/CC-GSIVNWW3)
 * [JavaScript](https://www.sololearn.com/certificates/CC-2BYRBHEF)
+
 ---
 ### Languages: ###   
 * English - Beginner
 * Belorussian - Native
+
 ---
