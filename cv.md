@@ -28,3 +28,7 @@ I am 28 years old. I was born and live in the city of Mozyr. I work at an oil re
 * [Introduction to JavaScript](https://www.sololearn.com/certificates/CC-GSIVNWW3)
 * [JavaScript](https://www.sololearn.com/certificates/CC-2BYRBHEF)
 ---
+### Languages: ###   
+* English - Beginner
+* Belorussian - Native
+---
